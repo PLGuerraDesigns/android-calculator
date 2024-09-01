@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-end;">
-    <img src="https://raw.githubusercontent.com/PLGuerraDesigns/android-calculator/master/android-calculator/app/src/main/calculator_icon-web.png" alt="Icon" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/PLGuerraDesigns/android-calculator/main/android-calculator/app/src/main/calculator_icon-web.png" alt="Icon" width="100" height="100" style="margin-right: 10px;">
     <h1 style="margin: 0;">Android Calculator</h1>
 </div>
 <br />
@@ -8,8 +8,8 @@ Android Calculator is a calculator app developed for the CSCE 4623 (Mobile Progr
 
 **Project Instructions:**
 
-https://github.com/PLGuerraDesigns/android-calulator/blob/master/assignment-instructions.pdf
+https://github.com/PLGuerraDesigns/android-calculator/blob/main/assignment-instructions.pdf
 
 **Project Report:**
 
-https://github.com/PLGuerraDesigns/android-calulator/blob/master/report.pdf
+https://github.com/PLGuerraDesigns/android-calculator/blob/main/report.pdf
