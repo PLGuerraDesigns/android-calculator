@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <color name="dark">#333f48</color>
+    <color name="grey">#1d1d1d</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#444444</color>
+    <color name="blue">#0081e4</color>
+    <color name="dark_blue">#0A6AB3</color>
+    <string name="help">"?"</string>
+</resources>
